@@ -2,7 +2,7 @@
 
 function test()
 {
-    echo "Hello!";
+    echo "Hello World!";
 }
 
 test();
